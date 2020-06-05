@@ -738,6 +738,10 @@ a.navigation-link:hover {
         display: flex;
         max-width: 48px;
     }
+
+    .right-sidebar {
+        display: none;
+    }
 }
 
 
